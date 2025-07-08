@@ -10,8 +10,10 @@ The apply_curation function takes 4 variables:
 The cell labels that were not manually selected are grouped as "good_labels".
 
 <h2> User's manual </h2>
-1. To switch between categories use the keyoard keys 1, 2, 3, 4 etc, each corresponding to the first, second, third, fourth etc items in the mask_categories list.
-2. To manually apply a selected category to a cell label, left-click on the cell label.
-3. To remove an applied category, right-click around the category marker (usually shown as a cross). A radius of 5 pixels around the cross is considered.
-4. The user may use the toolbar on top of the GUI to zoom in, or return to the home view. However, before changing categories or clicking on cells, the user must ensure that the toolbar items are not selected.
-5. To finish the manual curation simply close the GUI window. 
+<ls>
+  1. To switch between categories use the keyoard keys 1, 2, 3, 4 etc, each corresponding to the first, second, third, fourth etc items in the mask_categories list.
+  2. To manually apply a selected category to a cell label, left-click on the cell label.
+  3. To remove an applied category, right-click around the category marker (usually shown as a cross). A radius of 5 pixels around the cross is considered.
+  4. The user may use the toolbar on top of the GUI to zoom in, or return to the home view. However, before changing categories or clicking on cells, the user must ensure that the toolbar items are not selected.
+  5. To finish the manual curation simply close the GUI window. 
+</ls>
