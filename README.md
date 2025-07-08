@@ -1,4 +1,4 @@
-# ManuCur
+# ManuCure
 A Python library which uses the PyQt5 framework to provide a graphical and interactive interface for the manual curation of cell labels.
 
 The manual curation functions are included in the cell_mask_curation.py script and applied in the apply_mask_curation.py script, using the matplotlib "Qt5Agg" backend.
