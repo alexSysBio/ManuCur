@@ -16,4 +16,5 @@ The cell labels that were not manually selected are grouped as "good_labels".
   4. The user may use the toolbar on top of the GUI to zoom in, or return to the home view. However, before changing categories or clicking on cells, the user must ensure that the toolbar items are not selected.
   5. To finish the manual curation simply close the GUI window. 
 
-https://github.com/alexSysBio/ManuCur/blob/main/example_movie.mp4
+https://github.com/user-attachments/assets/7cd3d85b-6118-4f6f-8cda-f5ff3a36d024
+
