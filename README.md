@@ -9,7 +9,7 @@ The apply_curation function takes 4 variables:
   4. save (bool): choose True to save a dictionary with the manually grouped cell labels in the same folder as the masked cell labels (cell_masks_path).
 The cell labels that were not manually selected are grouped as "good_labels".
 
-# User's manual
+## User's manual
   1. To switch between categories use the keyoard keys 1, 2, 3, 4 etc, each corresponding to the first, second, third, fourth etc items in the mask_categories list.
   2. To manually apply a selected category to a cell label, left-click on the cell label.
   3. To remove an applied category, right-click around the category marker (usually shown as a cross). A radius of 5 pixels around the cross is considered.
